@@ -864,3 +864,9 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+
+.contact{
+	text-align: center;
+	vertical-align: top;
+}
